@@ -118,10 +118,16 @@ body {
     color: #ccc; 
 }
 
+.footer-social img{
+    width: 50px;
+}
+
 section {
     padding: 50px;
     height: 100vh; 
 }
+
+
 
 
 #accueil { background-color: #f4f4f4; }
